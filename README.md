@@ -1,1 +1,1 @@
-<h1> Movies Reccomendation System</h1>
+<h1> Movies Recommendation System</h1>
